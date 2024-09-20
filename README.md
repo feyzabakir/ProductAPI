@@ -104,3 +104,6 @@ Uygulama başlangıcında bazı roller ve kullanıcılar otomatik olarak seed ve
 ### Loglama
 Projede loglama için `Serilog` kullanılmaktadır. Loglar hem konsola hem de bir dosyaya yazılır.
 Loglar, logs/log-.txt dosyasına günlük olarak kaydedilir.
+
+## VIDEO
+<a href="https://github.com/feyzabakir/ProductAPI/issues/1">Video Link</a>
